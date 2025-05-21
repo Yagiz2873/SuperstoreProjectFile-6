@@ -1,2 +1,1 @@
 This repo contains an Excel file that shows seasonal sales for the Superstore dataset from 2014 to 2017. These files were prepared for further analyses, especially for implementing Apriori Algorithm, by İrfan Mızrakçı. I've also made some contributions for these.
-Basically, after our analyses, we've decided to implement Apriori Algorithms on products' categories that were sold on autumn and winter because of the high monetary on these seasons.
